@@ -5,7 +5,6 @@ Fullstack Developer
 ### Github Lama Ditangguhkan, ini akun baru
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-fahrudin&layout=compact)
-
 ![Fahrudin A'hmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmad-fahrudin&show_icons=true&theme=radical)
 ---
 
