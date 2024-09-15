@@ -2,11 +2,9 @@ Fullstack Developer
 ## Ahmad Fahrudin ![Profile views](https://komarev.com/ghpvc/?username=ahmad-fahrudin)
 ---
 
-### 💻 Most Used Languages
+### Github Lama Ditangguhkan, ini akun baru
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-fahrudin&layout=compact)
-
-### Github Lama Ditangguhkan, ini akun baru
 
 ![Fahrudin A'hmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmad-fahrudin&show_icons=true&theme=radical)
 ---
