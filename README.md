@@ -1,8 +1,6 @@
 Fullstack Developer
 ### Github Lama Ditangguhkan, ini akun baru
 ## Ahmad Fahrudin ![Profile views](https://komarev.com/ghpvc/?username=ahmad-fahrudin)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-fahrudin&layout=compact)
-
 
 ### 🛠 Tech Stack 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
