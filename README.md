@@ -1,7 +1,6 @@
 Fullstack Developer
 ### Github Lama Ditangguhkan, ini akun baru
 ## Ahmad Fahrudin ![Profile views](https://komarev.com/ghpvc/?username=ahmad-fahrudin)
----
 
 ### 🛠 Skills & Technologies
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
@@ -18,3 +17,13 @@ Fullstack Developer
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-fahrudin&layout=compact)
+
+### 📫 How to reach me
+
+- Instagram: [@fahrudina'hmad](https://www.instagram.com/fahrudinahmad20/)
+- Email: [@ahmadfahrudin485@gmail.com](mailto:ahmadfahrudin485@gmail.com)
+- Website: [ahmadfahrudin.my.id](https://ahmadfahrudin.my.id/)
+- WhatsApp: [Chat on WhatsApp](https://wa.me/62895360889600)
+
+## Thanks All
+
