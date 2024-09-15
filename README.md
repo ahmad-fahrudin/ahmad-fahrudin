@@ -3,11 +3,7 @@ Fullstack Developer
 ---
 
 ### Github Lama Ditangguhkan, ini akun baru
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-fahrudin&layout=compact)
-![Fahrudin A'hmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmad-fahrudin&show_icons=true&theme=radical)
----
-
 ### 🛠 Skills & Technologies
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) 
