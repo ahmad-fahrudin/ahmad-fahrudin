@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+### 🛠 Languages and Tools:
+- HTML, CSS, PHP, JavaScript
+- Bootstrap, Laravel, Ajax(jQuery), Laravel Livewire
+- Rest API, MySQL
+- Integrasi API
+- Git, GitHub
+
 <!--
 **ahmad-fahrudin/ahmad-fahrudin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
