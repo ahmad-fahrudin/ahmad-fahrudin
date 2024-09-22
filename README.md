@@ -27,7 +27,7 @@ Fullstack Developer
 
 - Instagram: [@fahrudina'hmad](https://www.instagram.com/fahrudinahmad20/)
 - Email: [@ahmadfahrudin485@gmail.com](mailto:ahmadfahrudin485@gmail.com)
-- Website: [ahmadfahrudin.my.id](https://ahmadfahrudin.my.id/)
+- Portfolio & CV: [ahmadfahrudin.my.id](https://ahmadfahrudin.my.id/)
 - WhatsApp: [0895-3608-89600](https://wa.me/62895360889600)
 
 ## Thanks All
