@@ -53,16 +53,6 @@ Unity 3D / Games  █████░░░░░  50%  ← learning now
 
 ---
 
-## 🧊 3D Contribution Graph
-
-<div align="center">
-
-![3D Contribution Graph](https://raw.githubusercontent.com/ahmad-fahrudin/ahmad-fahrudin/main/profile-3d-contrib/profile-green-animate.svg)
-
-</div>
-
----
-
 ## 📫 How to Reach Me
 
 <div align="center">
