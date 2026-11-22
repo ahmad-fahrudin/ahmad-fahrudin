@@ -53,6 +53,16 @@ Unity 3D / Games  █████░░░░░  50%  ← learning now
 
 ---
 
+## 🧊 3D Contribution Graph
+
+<div align="center">
+
+![3D Contribution Graph](https://raw.githubusercontent.com/ahmad-fahrudin/ahmad-fahrudin/main/profile-3d-contrib/profile-green-animate.svg)
+
+</div>
+
+---
+
 ## 📫 How to Reach Me
 
 <div align="center">
@@ -69,7 +79,11 @@ Unity 3D / Games  █████░░░░░  50%  ← learning now
 
 ### Thanks for visiting! ✨
 
-![Snake](https://raw.githubusercontent.com/ahmad-fahrudin/ahmad-fahrudin/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmad-fahrudin/ahmad-fahrudin/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmad-fahrudin/ahmad-fahrudin/output/github-contribution-grid-snake-light.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ahmad-fahrudin/ahmad-fahrudin/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
