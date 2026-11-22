@@ -30,17 +30,6 @@
 
 ---
 
-## 🔥 What I'm Building Now
-
-| Project | What it does | Stack |
-|---|---|---|
-| **realtime-translate** | Realtime 2-way live call translator for WhatsApp / Zoom / Meet | Python, Whisper, NLLB, Piper, Docker |
-| **bakarans** | Online shop app | Vue |
-| **laravel-ecommerce** | E-commerce from a technical test, lots of features | Laravel, Livewire |
-| **Karang-taruna** | App for Karang Taruna Bina Muda in my village | PHP, Laravel |
-
----
-
 ## 🧰 Tech Stack
 
 <div align="center">
@@ -92,45 +81,6 @@ Unity 3D / Games  █████░░░░░  50%  ← learning now
 
 ---
 
-## 🔥 Featured Projects
-
-<div align="center">
-
-[![Realtime Translate](https://github-readme-stats.vercel.app/api/pin/?username=ahmad-fahrudin&repo=realtime-translate&theme=tokyonight&hide_border=true)](https://github.com/ahmad-fahrudin/realtime-translate)
-[![Bakarans](https://github-readme-stats.vercel.app/api/pin/?username=ahmad-fahrudin&repo=bakarans&theme=tokyonight&hide_border=true)](https://github.com/ahmad-fahrudin/bakarans)
-
-[![Laravel Ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=ahmad-fahrudin&repo=laravel-ecommerce&theme=tokyonight&hide_border=true)](https://github.com/ahmad-fahrudin/laravel-ecommerce)
-[![Golang Gin Starter](https://github-readme-stats.vercel.app/api/pin/?username=ahmad-fahrudin&repo=golang-gin-starter-kit&theme=tokyonight&hide_border=true)](https://github.com/ahmad-fahrudin/golang-gin-starter-kit)
-
-[![NestJS Starter](https://github-readme-stats.vercel.app/api/pin/?username=ahmad-fahrudin&repo=nest-js-starter-kit&theme=tokyonight&hide_border=true)](https://github.com/ahmad-fahrudin/nest-js-starter-kit)
-[![Karang Taruna](https://github-readme-stats.vercel.app/api/pin/?username=ahmad-fahrudin&repo=Karang-taruna&theme=tokyonight&hide_border=true)](https://github.com/ahmad-fahrudin/Karang-taruna)
-
-</div>
-
----
-
-## 🌱 Currently Learning & Exploring
-
-![Unity](https://img.shields.io/badge/Unity_3D-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/AI-Whisper_%2B_NLLB-7AA2F7?style=for-the-badge)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 💭 Quote & Fun
-
-<div align="center">
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=grow_out_in&quoteCategory=programming)
-
-![Joke](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true)
-
-</div>
-
----
-
 ## 📫 How to Reach Me
 
 <div align="center">
@@ -148,8 +98,6 @@ Unity 3D / Games  █████░░░░░  50%  ← learning now
 ### Thanks for visiting! ✨
 
 ![Snake](https://raw.githubusercontent.com/ahmad-fahrudin/ahmad-fahrudin/output/github-contribution-grid-snake.svg)
-
-*Snake di atas baru muncul setelah kamu pasang GitHub Action Platane/snk, kalau belum dipasang bagian ini bisa dihapus dulu.*
 
 </div>
 
