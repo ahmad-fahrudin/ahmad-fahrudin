@@ -53,34 +53,6 @@ Unity 3D / Games  █████░░░░░  50%  ← learning now
 
 ---
 
-## 📊 GitHub Stats — Extreme Edition
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmad-fahrudin&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-fahrudin&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=ahmad-fahrudin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmad-fahrudin&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
-
-### Profile Summary Cards
-
-<div align="center">
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmad-fahrudin&theme=tokyonight)
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmad-fahrudin&theme=tokyonight)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmad-fahrudin&theme=tokyonight)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmad-fahrudin&theme=tokyonight)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmad-fahrudin&theme=tokyonight&utcOffset=7)
-
-</div>
-
----
-
 ## 📫 How to Reach Me
 
 <div align="center">
